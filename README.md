@@ -1,6 +1,6 @@
 # details
 
-"1. Student Information
+## Ⅰ. Student Information
 
 | Category               | Number of Columns | Attribute Name                                        |
 |------------------------|-------------------|------------------------------------------------------|
@@ -8,9 +8,9 @@
 | Previous Course Grades  | 3                 | Programming fundamentals grade, data structures and algorithms grade, probability and statistics grade |
 | Skills Self-Assessment and Learning Preferences (1-5 scale) | 3 | Interest in data mining, self-assessed teamwork ability, self-assessed experience using intelligent education platforms |"
 
-Translation:
 
-"Smart Education Platform Data Collection Module and Examples
+
+## Ⅱ. Smart Education Platform Data Collection Module and Examples
 
 ## 1. Course Learning Module
 - **Video Viewing Records**
